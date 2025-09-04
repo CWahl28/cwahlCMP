@@ -1,0 +1,5 @@
+name= input("What is your name?")
+age= input("How old are you, "+name+"?")
+print("Excellent! "+age+" is a great age to be.")
+school= input("What school do you attend, "+name+"?")
+print("A fine school, "+school+".")
