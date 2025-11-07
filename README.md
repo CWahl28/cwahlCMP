@@ -1,2 +1,5 @@
 # cwahlCMP
+
+# THIS REPOSITORY IS ABANDONED, IT WAS SHIFTED TO CODEBERG
+
 CSC221 Computer Programming Class Repo.
